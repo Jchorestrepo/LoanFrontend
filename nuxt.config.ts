@@ -1,5 +1,5 @@
 export default defineNuxtConfig({
-  ssr: false, // Desactiva SSR, usa SPA
+  
   devtools: { enabled: false },
 
   modules: [
