@@ -1,0 +1,1 @@
+import{c as r,b as e,a,n as c,p as s,o as _}from"./DBY5M3sJ.js";const d={class:"bg-dark-background text-dark-primary min-h-screen"},l={class:"flex"},i={class:"flex-1 p-6 ml-64"},f={__name:"default",setup(m){return(o,p)=>{const t=s("Navbar"),n=s("Sidebar");return _(),r("div",d,[e(t),a("div",l,[e(n),a("main",i,[c(o.$slots,"default")])])])}}};export{f as default};

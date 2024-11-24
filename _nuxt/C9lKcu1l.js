@@ -1,1 +1,0 @@
-import{n as e,c as r,b as a,a as s,p as c,o as _}from"./C6ViOGLp.js";const d={class:"bg-dark-background text-dark-primary min-h-screen"},l={class:"flex"},i={class:"flex-1 p-6 ml-64"},f={__name:"default",setup(m){return(o,p)=>{const t=e("Navbar"),n=e("Sidebar");return _(),r("div",d,[a(t),s("div",l,[a(n),s("main",i,[c(o.$slots,"default")])])])}}};export{f as default};
